@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range (where .Site.RegularPages "Type" "in" "posts").GroupByDate "2006" }}
+  <h2>{{ .Key }}</h2>
+  <ul class="posts">
+    {{ range .Pages }}
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+{{ end }}

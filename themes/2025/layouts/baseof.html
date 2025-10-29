@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  <meta name="author" content="Day">
+  <meta name="description" content="{{ replace .Summary "\n" " " }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="Crypto by Day">
+  <link rel="sitemap" type="application/xml" href="{{ .Site.BaseURL }}sitemap.xml">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  {{- with .Page.Params.noindex }}
+  <link rel="robots" content="noindex">
+  {{- end }}
+  <link rel="prefetch" href="/posts/">
+  <link rel="prefetch" href="/about/">
+  {{ block "prefetch" . }}{{ end }}
+  {{- with resources.Get "css/style.css" }}
+  {{ with . | minify | fingerprint }}<style>{{ .Content | safeCSS }}</style>{{ end }}
+  {{- end }}
+  <script>
+    const colorMeta = document.querySelector('meta[name="color-scheme"]');
+    function setColorMode(mode) {
+      colorMeta.setAttribute('content', mode);
+      localStorage.setItem('mode', mode);
+    }
+    addEventListener("DOMContentLoaded", function () {
+      if (mode = localStorage.getItem('mode')) {
+        document.getElementById('color-mode').value = mode
+        setColorMode(mode); // The above won't trigger change event, so need this
+      }
+    });
+  </script>
+</head>
+
+<body>
+  <header>
+    <a href="/">Crypto by Day</a>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/posts/">Archive</a></li>
+        <li><a href="/about/">About</a></li>
+      </ul>
+    </nav>
+    <div>
+      <label for="color-mode">Color</label>
+      <select id="color-mode" onchange="setColorMode(this.value)">
+        <option value="light dark">Auto</option>
+        <option value="light">Light</option>
+        <option value="dark">Dark</option>
+      </select>
+    </div>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    All content copyright 2025. Licensed under
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC&nbsp;BY&#8209;NC&#8209;SA&nbsp;4.0</a>.
+    <a href="/index.xml">RSS feed</a>.
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+baseURL = 'https://cryptobyday.net/'
+languageCode = 'en-us'
+title = 'Crypto by Day'
+theme = '2025'
+disableHugoGeneratorInject = true
+
+[taxonomies]

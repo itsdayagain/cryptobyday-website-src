@@ -1,0 +1,15 @@
+{{- $src := .Page.Resources.GetMatch (.Get "src") }}
+{{- $alt := (.Get "alt") }}
+{{- $caption := (.Get "caption") -}}
+{{- $webp := $src.Process "webp" }}
+<figure>
+    {{- with $src }}
+    <a href="{{ $webp.RelPermalink }}">
+        <img src="{{ $webp.RelPermalink }}"
+             width="{{ .Width }}"
+             height="{{ .Height }}"
+             alt="{{ $alt }}">
+    </a>
+    <figcaption>{{ $caption }}</figcaption>
+    {{- end }}
+</figure>
