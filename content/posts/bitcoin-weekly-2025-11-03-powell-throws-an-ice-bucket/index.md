@@ -8,6 +8,8 @@ Bitcoin ended the week down, but still closed slightly above support at $109k,
 keeping the price target of $142k in play for now.'''
 +++
 
+*Also watch the [accompanying chart analysis](https://youtu.be/Nkpvxceik-8) on YouTube.*
+
 The past week started out positive. Stock markets put in new all time highs,
 frontrunning US rate cuts, tech earnings, and good news coming out of Trump's
 visit to Asia.
@@ -19,11 +21,11 @@ further cut in December is far from a foregone conclusion. In the Fed's view,
 the US job market is holding up reasonably well after all, while the danger of
 higher inflation still looms.
 
-This somewhat hawkish stance from Powell was apparently not what the markets
-wanted to hear. They sold off towards the end of the week, adjusting to the
-prospects of slower than expected rate cuts. The disappointment was also
-reflected in the crypto space, which ended the week down across the board. Also,
-bitcoin ETF inflows turned negative again, showing that sentiment is still weak.
+This somewhat hawkish stance from Powell was not what the markets wanted to
+hear. They sold off towards the end of the week, adjusting to the prospects of
+slower than expected rate cuts. The disappointment was also reflected in the
+crypto space, which ended the week down across the board. Also, bitcoin ETF
+inflows turned negative again, showing that sentiment is still weak.
 
 However, it's probably a mistake to focus too much on the short term actions of
 the Fed right now. The fact is that the US economy is holding up, big tech
