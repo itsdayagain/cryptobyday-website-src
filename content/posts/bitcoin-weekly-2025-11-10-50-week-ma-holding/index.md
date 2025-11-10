@@ -9,9 +9,7 @@ remains above the 50 week SMA, with a price target of $142k, making it too early
 to call any tops.'''
 +++
 
-<!--
-*Also watch the [accompanying chart analysis](https://youtu.be/Nkpvxceik-8) on YouTube.*
--->
+*Also watch the [accompanying chart analysis](https://youtu.be/dd3Eb2GKiLw) on YouTube.*
 
 In the wake of Powell's hawkishness at the FOMC press conference the week before
 last, this past week tradfi markets continued down, seemingly worried that the
