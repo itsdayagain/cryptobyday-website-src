@@ -22,6 +22,13 @@ So please enjoy, and good luck on your crypto journey!
 Please note that NOTHING on this website is financial advice. You are 100%
 responsible for your own decisions.
 
+## Follow me elsewhere
+
+Besides this website, I post regularly to these social media accounts:
+
+- [YouTube channel](https://youtube.com/@cryptobyday)
+- [X feed](https://x.com/@itsdayagain)
+
 ## A note on generative AI
 
 All content on this site is made by me, with zero use of generative AI. In fact,
