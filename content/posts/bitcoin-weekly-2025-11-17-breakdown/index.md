@@ -8,7 +8,7 @@ price target of $142k is no longer in play. Last week's call for patience now
 turns into a call for extreme caution.'''
 +++
 
-<!-- *Also watch the [accompanying chart analysis](https://youtu.be/dd3Eb2GKiLw) on YouTube.* -->
+*Also watch the [accompanying chart analysis](https://youtu.be/9VUyPGClGic) on YouTube.*
 
 In tradfi, the US government shutdown ending mid-week failed to cheer the
 markets up. Instead they started pricing in lower expectations of a December
