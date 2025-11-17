@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
   <meta name="author" content="Day">
-  <meta name="description" content="{{ replace .Summary "\n" " " }}">
+  <meta name="description" content="{{ replace .Summary "\n" " " | safeHTML }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
   <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="Crypto by Day">
