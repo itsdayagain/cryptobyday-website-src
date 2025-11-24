@@ -5,6 +5,8 @@ title = 'Bitcoin weekly: The Breakdown Deepens'
 summary = '''Despite strong earnings from Nvidia calming AI bubble fears, markets failed to rebound. This is a sign of weakness, and we should be prepared for a period of correction in tradfi, and continued weakness in crypto.'''
 +++
 
+*Also watch the [accompanying chart analysis](https://youtu.be/eSBWKuEl01I) on YouTube.*
+
 This was not a pretty week in the markets.
 
 Not even Nvidia's better-than-expected earnings on Wednesday could perk up trader sentiment.
