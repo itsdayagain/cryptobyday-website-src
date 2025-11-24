@@ -58,5 +58,5 @@ from this, however.
 {{< figure
     src="btcd.png"
     alt="BTC.D weekly chart, 17 November 2025"
-    caption="Bitcoin dominance BTC.D weekly chart, 10 November 2025. Altseason on pause, still not dead."
+    caption="Bitcoin dominance BTC.D weekly chart, 17 November 2025. Altseason on pause, still not dead."
 >}}
