@@ -5,7 +5,7 @@ title = 'Bitcoin weekly: To bounce, or not to bounce?'
 summary = '''Stock markets rallied as dip buyers stepped in early. But will a renewed Santa rally in stocks be enough for bitcoin and the crypto market to perk up? Last week's bounce in crypto was not convincing, calling for caution to remain.'''
 +++
 
-<!-- *Also watch the [accompanying chart analysis](https://youtu.be/eSBWKuEl01I) on YouTube.* -->
+*Also watch the [accompanying chart analysis](https://youtu.be/TFhP4SDGYqk) on YouTube.*
 
 Last week, after the lackluster response to Nvidias strong earnings, I wrote that we should be prepared for a larger correction over the next month or two.
 That is less certain now.
