@@ -1,7 +1,7 @@
 +++
 date = '2025-11-24'
 draft = false
-title = 'Bitcoin weekly: The Breakdown Deepens'
+title = 'Bitcoin weekly: The breakdown deepens'
 summary = '''Despite strong earnings from Nvidia calming AI bubble fears, markets failed to rebound. This is a sign of weakness, and we should be prepared for a period of correction in tradfi, and continued weakness in crypto.'''
 +++
 
