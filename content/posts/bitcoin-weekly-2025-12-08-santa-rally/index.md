@@ -5,7 +5,7 @@ title = 'Bitcoin weekly: Santa rally?'
 summary = '''Stocks look set for a rally into the end of the year, spurred by a US rate cut on Wednesday. This could give room for the bounce in crypto to continue. However, given the recent breakdown, expect the bounce to eventually turn into a bull trap.'''
 +++
 
-<!-- *Also watch the [accompanying chart analysis](https://youtu.be/TFhP4SDGYqk) on YouTube.* -->
+*Also watch the [accompanying chart analysis](https://youtu.be/RfQny1cHGIA) on YouTube.*
 
 US stock markets closed another week up on Friday, on the back of somewhat weak
 job numbers, combined with core PCE inflation coming in no higher than expected.
