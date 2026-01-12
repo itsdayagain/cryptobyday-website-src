@@ -56,7 +56,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-wrap: balance;
+    text-wrap: pretty;
 }
 
 /* Layout */
@@ -147,11 +147,13 @@ a {
         color: inherit;
         text-decoration: underline;
     }
+
     &[href^='http']:after {
         content: '↗';
         margin-left: 5px;
         color: rgb(from var(--text-color) r g b / 0.5);
-        display: inline-block; /* Removes underline (in some browsers?) */
+        display: inline-block;
+        /* Removes underline (in some browsers?) */
     }
 }
 
@@ -161,10 +163,11 @@ time {
 
 /* Common elements */
 
+li {
+    margin: 5px 0;
+}
+
 .posts {
-    li {
-        margin: 5px 0;
-    }
     h3 {
         font-size: 1rem;
         font-weight: normal;
@@ -176,6 +179,13 @@ time {
         display: inline-block;
         margin: 0;
     }
+}
+
+.note {
+    margin: 20px 15px;
+    padding: 15px 18px;
+    background: rgb(from var(--text-color) r g b / 0.15);
+    border-radius: 10px;
 }
 
 /* Header */
@@ -262,4 +272,3 @@ figure {
         margin: 10px 0 1.5rem;
     }
 }
-
