@@ -5,7 +5,7 @@ title = 'Bitcoin weekly: Can the Russell 2000 save us?'
 summary = '''Stock markets are strong all across the world. In the US, the smallcap Russell 2000 index might be breaking out on the monthly chart. The past three times this happened, it was very good for crypto. And bitcoin is indeed showing some strength on the daily chart. But in the bigger picture, there are no clear signs of a bottom being in just yet.'''
 +++
 
-<!-- *Also watch the [accompanying chart analysis](https://youtu.be/1NbZ2XwT7MU) on YouTube.* -->
+*Also watch the [accompanying chart analysis](https://youtu.be/QhQrlIppnyY) on YouTube.*
 
 This past week saw new all time highs in stock markets all around the world.
 This is good: as long as stocks go up, there is still room for crypto to
