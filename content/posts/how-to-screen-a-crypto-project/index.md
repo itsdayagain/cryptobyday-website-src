@@ -346,7 +346,7 @@ slowly eating away at the price over months and years.
     caption="CoinMarketCap page showing token unlocks for GFAL."
 >}}
 
-### Wrapping Up Step 4
+### Wrapping Up Step 3
 
 That concludes the token part. Here are the main takeaways:
 
