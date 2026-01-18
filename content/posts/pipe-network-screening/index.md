@@ -14,7 +14,6 @@
 "summary": "Pipe Network is a decentralized CDN built by good engineers, running on Solana. They have a real product with a real use case, and the tokenomics make sense. High potential."
 }
 ---
-
 ## Verdict: GOOD
 
 - Good engineers.
