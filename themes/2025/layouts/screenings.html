@@ -6,7 +6,8 @@
     project gets a score: good, okay, or fail. See <a href="/posts/how-to-screen-a-crypto-project/">How To Screen A Crypto Project</a> for more details.
   </p>
   <h2>GOOD</h2>
-  {{ range where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "good" }}
+  {{ $pages := where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "good" }}
+  {{ range (sort $pages ".Params.Title" "asc" )}}
   <ul class="posts">
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
@@ -17,7 +18,8 @@
   </ul>
   {{ end }}
   <h2>OKAY</h2>
-  {{ range where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "okay" }}
+  {{ $pages := where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "okay" }}
+  {{ range (sort $pages ".Params.Title" "asc" )}}
   <ul class="posts">
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
@@ -28,7 +30,8 @@
   </ul>
   {{ end }}
   <h2>FAIL</h2>
-  {{ range where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "fail" }}
+  {{ $pages := where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "fail" }}
+  {{ range (sort $pages ".Params.Title" "asc" )}}
   <ul class="posts">
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
