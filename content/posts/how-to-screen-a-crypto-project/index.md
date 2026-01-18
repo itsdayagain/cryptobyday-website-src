@@ -2,7 +2,7 @@
 {
 "nexus_schema": "note-v1",
 "id": "how-to-screen-a-crypto-project-blog-post-2026-01",
-"created_at": "2026-01-07",
+"created_at": "2026-01-08",
 "tags": ["output/article"],
 "lang": "en",
 "date": "2026-01-18",
