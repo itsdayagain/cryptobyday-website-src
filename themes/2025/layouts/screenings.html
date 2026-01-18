@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p>
+    Screenings are how I find the true gems among the heaps of garbage in the crypto
+    space. A screening is a short assessment of the quality of a crypto project. Each screened
+    project gets a score: good, okay, or fail. See <a href="/posts/how-to-screen-a-crypto-project/">How To Screen A Crypto Project</a> for more details.
+  </p>
+  <h2>GOOD</h2>
+  {{ range where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "good" }}
+  <ul class="posts">
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </li>
+  </ul>
+  {{ end }}
+  <h2>OKAY</h2>
+  {{ range where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "okay" }}
+  <ul class="posts">
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </li>
+  </ul>
+  {{ end }}
+  <h2>FAIL</h2>
+  {{ range where (where .Site.RegularPages "Type" "in" "posts") "Params.score" "eq" "fail" }}
+  <ul class="posts">
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </li>
+  </ul>
+  {{ end }}
+{{ end }}
