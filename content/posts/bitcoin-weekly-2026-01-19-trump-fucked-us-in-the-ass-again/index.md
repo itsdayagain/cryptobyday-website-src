@@ -3,14 +3,22 @@
 "nexus_schema": "hugo-blog-post-v1",
 "id": "btc-market-update-post-2026-01-19",
 "created_at": "2026-01-19",
-"tags": ["output/article"],
+"tags": ["output/blog-post"],
+
 "lang": "en",
 "date": "2026-01-19",
 "draft": false,
 "title": "Bitcoin Weekly: Trump Fucked Us in the Ass (Again)",
-"summary": "Trump wants to \"aquire\" Greenland, and is threatening Europe with more tariffs if they don't play nice. Stock markets are not liking the uncertainty, and crypto is taking a blow. The bullish ascending triangle that broke out on bitcoin last week is now in question, and the pattern is eerily similar to what happened after the top in 2021."
 }
 ---
+
+Trump wants to \"aquire\" Greenland, and is threatening Europe with more tariffs
+if they don't play nice. Stock markets are not liking the uncertainty, and
+crypto is taking a blow. The bullish ascending triangle that broke out on
+bitcoin last week is now in question, and the pattern is eerily similar to what
+happened after the top in 2021.
+
+<!--more-->
 
 On the weekly bitcoin chart, the situation has not changed. It's still bouncing
 after the breakdown back in November, but also still below heavy technical
