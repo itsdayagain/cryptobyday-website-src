@@ -11,13 +11,12 @@
 "summary": "How I quickly find the true crypto gems among the heaps of garbage."
 }
 ---
-## Should I Invest or Should I Chuck It In the Garbage Bin?
+## Invest or Throw It In the Garbage Bin?
 
 That's the question, right? There are thousands of crypto projects out there.
 From the top players that everybody knows about, down to the niche altcoins only
-familiar to those of us deep down into the crypto weeds. But whether big or
-small, the question is the same: how do you know which ones are worth investing
-in?
+familiar to those of us deep down in the crypto weeds. But whether big or small,
+the question is the same: how do you know which ones are worth investing in?
 
 The answer is this: you need a method, a way to systematically judge new
 projects you come across. This method needs to help you quickly decide if you
