@@ -3,14 +3,18 @@
 "nexus_schema": "note-v1",
 "id": "how-to-screen-a-crypto-project-blog-post-2026-01",
 "created_at": "2026-01-08",
-"tags": ["output/article"],
+"tags": ["crypto/screening"],
 "lang": "en",
 "date": "2026-01-18",
 "draft": false,
 "title": "How To Screen A Crypto Project",
-"summary": "How I quickly find the true crypto gems among the heaps of garbage."
 }
 ---
+
+How I quickly find the true crypto gems among the heaps of garbage.
+
+<!--more-->
+
 ## Invest or Throw It In the Garbage Bin?
 
 That's the question, right? There are thousands of crypto projects out there.
@@ -189,7 +193,7 @@ questions:
 For any company to succeed, they obviously need to have paying customers. And
 crypto projects are no different: if nobody wants to use their product, they will
 fail. Sometimes it's so early that the product hasn't launched yet. If so, I try
-to judge if there at least is a market demand for it.
+to judge if at least there's a market demand for it.
 
 As for paying customers, in crypto they can be for example:
 
