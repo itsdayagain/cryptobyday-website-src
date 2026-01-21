@@ -1,7 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range (where .Site.RegularPages "Type" "in" "posts").GroupByDate "2006" }}
+  {{ range (where .Site.RegularPages "Type" "in" (slice "posts" "screenings")).GroupByDate "2006" }}
   <h2>{{ .Key }}</h2>
   <ul class="posts">
     {{ range .Pages }}

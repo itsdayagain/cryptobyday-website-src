@@ -8,7 +8,7 @@
   {{ .Content }}
   <article class="latest-post">
     <h2 class="section">Latest</h2>
-  {{ range first 1 (where .Site.RegularPages "Type" "in"  "posts").ByDate.Reverse }}
+  {{ range first 1 (where .Site.RegularPages "Type" "in"  (slice "posts" "screenings")).ByDate.Reverse }}
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format "2 January 2006" }}
     <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
@@ -20,7 +20,7 @@
   </article>
   <h2 class="section">Recent</h2>
   <ul class="posts">
-  {{ range first 10 (after 1 (where .Site.RegularPages "Type" "in" "posts").ByDate.Reverse) }}
+  {{ range first 10 (after 1 (where .Site.RegularPages "Type" "in" (slice "posts" "screenings")).ByDate.Reverse) }}
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format "2 Jan 2006" }}
     <li>
