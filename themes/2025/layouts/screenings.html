@@ -5,7 +5,7 @@
     space. A screening is a short assessment of the quality of a crypto project. Each screened
     project gets a score: good, okay, or fail. See <a href="/posts/how-to-screen-a-crypto-project/">How To Screen A Crypto Project</a> for more details.
   </p>
-  <h2>GOOD</h2>
+  <h2>Good</h2>
   {{ $pages := where (where .Site.RegularPages "Type" "in" "screenings") "Params.score" "eq" "good" }}
   {{ range (sort $pages ".Params.Title" "asc" )}}
   <ul class="posts">
@@ -17,7 +17,7 @@
     </li>
   </ul>
   {{ end }}
-  <h2>OKAY</h2>
+  <h2>Okay</h2>
   {{ $pages := where (where .Site.RegularPages "Type" "in" "screenings") "Params.score" "eq" "okay" }}
   {{ range (sort $pages ".Params.Title" "asc" )}}
   <ul class="posts">
@@ -29,7 +29,7 @@
     </li>
   </ul>
   {{ end }}
-  <h2>FAIL</h2>
+  <h2>Fail</h2>
   {{ $pages := where (where .Site.RegularPages "Type" "in" "screenings") "Params.score" "eq" "fail" }}
   {{ range (sort $pages ".Params.Title" "asc" )}}
   <ul class="posts">
