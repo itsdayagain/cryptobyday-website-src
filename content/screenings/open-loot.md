@@ -12,9 +12,13 @@
 "layout": "screening",
 "score": "good",
 "project_name": "Open Loot",
-"summary": "Web3 gaming infra by the Big Time team. Have their own appchain on Base."
 }
 ---
+
+Web3 gaming infra by the Big Time team. Have their own appchain on Base.
+
+<!--more-->
+
 ## Verdict: GOOD
 
 - Useful product.
@@ -56,7 +60,7 @@ support, a PC game launcher, and user acquisition tools."
 
 Games on their platform as of December 2025:
 
-- [Big Time](/posts/big-time-screening/)
+- [Big Time](/screenings/big-time/)
 - WorldShards
 - Trump Billionaires Club
 
@@ -73,7 +77,7 @@ Token $OL.
 
 ## Team
 
-Built by the [Big Time](/posts/big-time-screening/) team.
+Built by the [Big Time](/screenings/big-time/) team.
 
 ## Community
 

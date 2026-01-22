@@ -1,7 +1,7 @@
 ---
 {
 "nexus_schema": "hugo-blog-post-v1",
-"id": "pirate-chain-post-2026-01",
+"id": "pirate-chain-screening-post-2026-01",
 "created_at": "2026-01-07",
 "tags": ["crypto/screening"],
 "lang": "en",
@@ -11,9 +11,16 @@
 "layout": "screening",
 "score": "okay",
 "project_name": "Pirate Chain",
-"summary": "Pirate Chain is a fork of Zcash. But unlike Zcash, it forces all transactions to be shielded. It also writes snapshot checkpoints to Litecoin, effectively making it as secure against 51% attacks as Litecoin itself is. Pirate Chain is a real grassroots OG layer 1, that won't be able to compete with the bigger players. Nevertheless, it could rise along with the privacy narrative going into 2026."
 }
 ---
+
+Pirate Chain is a fork of Zcash. But unlike Zcash, it forces all transactions to
+be shielded. It also writes snapshot checkpoints to Litecoin, effectively making
+it as secure against 51% attacks as Litecoin itself is.  Pirate Chain is a real
+grassroots OG layer 1, that won't be able to compete with the bigger players.
+Nevertheless, it could rise along with the privacy narrative going into 2026.
+
+<!--more-->
 
 ## Verdict: OKAY
 

@@ -4,17 +4,21 @@
 "id": "big-time-screening-blog-post-2026-01",
 "created_at": "2025-12-10",
 "tags": ["crypto/screening"],
-"lang": "en",
 
+"lang": "en",
 "date": "2025-12-10",
 "draft": false,
 "title": "Big Time ($BIGTIME)",
 "layout": "screening",
 "score": "okay",
 "project_name": "Big Time",
-"summary": "Free-to-play multiplayer RPG with decent team. Integrated with Open Loot."
 }
 ---
+
+Free-to-play multiplayer RPG with decent team. Integrated with Open Loot.
+
+<!--more-->
+
 ## Verdict: OKAY
 
 - Serious team, game looks good.
@@ -51,7 +55,7 @@ F2P multiplayer RPG. Right now in open access.
 - Procedurally generated worlds.
 - Can build your own personal metaverse.
 - Craft, upgrade, and trade equipment using $BIGTIME.
-- [Open Loot](/posts/open-loot-screening/): web3 infra for in-game assets (separate $OL token).
+- [Open Loot](/screenings/open-loot/): web3 infra for in-game assets (separate $OL token).
 - Not pay-to-win.
 - Looks pretty good visually.
 

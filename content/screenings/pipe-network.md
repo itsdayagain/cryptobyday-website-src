@@ -5,15 +5,22 @@
 "created_at": "2025-12-07",
 "tags": ["crypto/screening"],
 "lang": "en",
+
 "date": "2025-12-07",
 "draft": false,
 "title": "Pipe Network ($PIPE)",
 "layout": "screening",
 "score": "good",
 "project_name": "Pipe Network",
-"summary": "Pipe Network is a decentralized CDN built by good engineers, running on Solana. They have a real product with a real use case, and the tokenomics make sense. High potential."
 }
 ---
+
+Pipe Network is a decentralized CDN built by good engineers, running on Solana.
+They have a real product with a real use case, and the tokenomics make sense.
+High potential.
+
+<!--more-->
+
 ## Verdict: GOOD
 
 - Good engineers.

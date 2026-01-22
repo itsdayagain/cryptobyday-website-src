@@ -3,17 +3,22 @@
 "nexus_schema": "hugo-blog-post-v1",
 "id": "overtake-screening-blog-post-2026-01",
 "created_at": "2025-12-08",
-"tags": ["crypto/screenings"],
+"tags": ["crypto/screening"],
 "lang": "en",
+
 "date": "2025-12-08",
 "draft": false,
 "title": "Overtake ($TAKE)",
 "layout": "screening",
 "score": "good",
 "project_name": "Overtake",
-"summary": "Peer-to-peer digital assets exchange on Sui. Focusing on web2 gaming assets."
 }
 ---
+
+Peer-to-peer digital assets exchange on Sui. Focusing on web2 gaming assets.
+
+<!--more-->
+
 ## Verdict: GOOD
 
 - Real market opportunity.
@@ -58,11 +63,11 @@ Simple business model: transaction fees.
 
 Token $TAKE. "Governance and utility token."
 
-- Sellers can stake for premium features
-- Platform revenue is distributed to stakers
-- Platform revenue is used to burn tokens
-- Use $TAKE for fee discounts
-- Stake for early access and other perks
+- Sellers can stake for premium features.
+- Platform revenue is distributed to stakers.
+- Platform revenue is used to burn tokens.
+- Use $TAKE for fee discounts.
+- Stake for early access and other perks.
 
 Seems decently well thought out. In theory it should work, as they get real fiat
 revenue from people trading on the platform.
