@@ -40,19 +40,19 @@ As of {date}:
 - Are there paying customers?
 - Competitors?
 
-## Team
-
-- Who is on the team?
-- What is their track record?
-- Are they good communicators?
-- Are they inspiring?
-
 ## Token
 
 - What does the token do?
 - Insider allocations?
 - External investors?
 - Inflation?
+
+## Team
+
+- Who is on the team?
+- What is their track record?
+- Are they good communicators?
+- Are they inspiring?
 
 ## Community
 
