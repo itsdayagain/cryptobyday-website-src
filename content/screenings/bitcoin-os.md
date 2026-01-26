@@ -7,7 +7,7 @@
 "lang": "en",
 "date": "2025-12-19",
 "draft": false,
-"title": "BitcoinOS Chain ($BOS)",
+"title": "BitcoinOS ($BOS)",
 "layout": "screening",
 "score": "good",
 "project_name": "BitcoinOS",
