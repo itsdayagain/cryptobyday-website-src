@@ -12,10 +12,10 @@
 ---
 
 Markets sold off across the board late last week, with silver recording its
-biggest ever daily drawdown in history, as it crashed from an open at $115 to a
-close at $85. On Saturday, bitcoin followed down into a lower low. It's now
-testing the area around $75k, where it is likely to find at least short term
-support.
+biggest ever daily drawdown in history on Friday, as it crashed from an open at
+$115 to a close at $85. On Saturday, bitcoin followed down into a lower low.
+It's now testing the area around $75k, where it is likely to find at least short
+term support.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ than the markets wanted, with the sell-off showing there will be less easy money
 from the central bank than expected. 
 
 The weakness in the bitcoin chart was already there though, as I've been
-repeating ad naseum over the past two months. So if it wasn't for this
+repeating ad nauseam over the past two months. So if it wasn't for this
 particular news item, it probably would have been something else that sent it on
 this next leg down.
 
