@@ -12,4 +12,4 @@ cp -r public/* build-output/
 
 # Make output HTML pretty
 find build-output -path "*.html" -type f \
-  -exec tidy --quiet yes --indent yes --indent-spaces 2 --wrap 0 --tidy-mark no -o {} {} \;
+  -exec tidy --show-filename yes --quiet yes --indent yes --indent-spaces 2 --wrap 0 --tidy-mark no -o {} {} \;
