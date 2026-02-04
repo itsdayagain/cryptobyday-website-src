@@ -3,6 +3,9 @@ date = '2025-10-22T10:45:18+02:00'
 draft = false
 title = 'Crypto by Day'
 summary = 'Welcome to Crypto by Day, a website about how to invest in crypto.'
+[[cascade]]
+  [cascade.build]
+    publishResources = false
 +++
 
 Welcome to Crypto by Day, a website about how to invest in crypto.
