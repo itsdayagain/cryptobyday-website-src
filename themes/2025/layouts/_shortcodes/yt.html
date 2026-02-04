@@ -1,0 +1,10 @@
+{{ $src := (.Get "src") }}
+{{ $caption := (.Get "caption") }}
+{{ $cls := (.Get "class") }}
+
+<figure class="{{ $cls }}">
+    <iframe width="560" height="315" src="{{ $src }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>{{ $caption }}</figcaption>
+</figure>
