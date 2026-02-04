@@ -135,11 +135,13 @@ h2 {
         font-weight: normal;
     }
 }
+
 h3 {
     font-size: 1.1rem;
     line-height: 1.3;
     margin: 1.4rem 0 0.6rem 0;
 }
+
 h3+p {
     margin-top: 0.8rem;
 }
@@ -274,9 +276,23 @@ figure {
         }
     }
 
+    iframe {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16/9;
+        display: block;
+        padding: 10px;
+        border: 1px solid rgb(from var(--text-color) r g b / 0.25);
+    }
+
     figcaption {
         font-size: 0.9rem;
         text-align: center;
         margin: 10px 0 1.5rem;
     }
+}
+
+figure.small {
+    max-width: 400px;
+    margin: 0 auto;
 }
