@@ -19,6 +19,8 @@ term support.
 
 <!--more-->
 
+*Also watch the [accompanying chart analysis](https://youtu.be/2yhHhUaVI-E) on YouTube.*
+
 This all came at the back of Trump's announcement of Kevin Warsh as the new 
 chair of the US Federal Reserve. Apparently Mr. Warsh was a more hawkish choice
 than the markets wanted, with the sell-off showing there will be less easy money
