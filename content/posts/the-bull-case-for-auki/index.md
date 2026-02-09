@@ -27,6 +27,7 @@ Let's dive in!
 {{< figure
 src="logo.png"
 alt="Auki's logotype"
+caption="Auki"
 class="small"
 >}}
 
