@@ -20,6 +20,8 @@ happened after the top in 2021.
 
 <!--more-->
 
+*Also watch the [accompanying chart analysis](https://youtu.be/DnPWkZcV8PY) on YouTube.*
+
 On the weekly bitcoin chart, the situation has not changed. It's still bouncing
 after the breakdown back in November, but also still below heavy technical
 resistance at 100k and 109k. Long term support remains at 72-76k.
