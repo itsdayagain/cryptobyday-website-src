@@ -19,6 +19,8 @@ weakness.
 
 <!--more-->
 
+*Also watch the [accompanying chart analysis](https://youtu.be/1q0JooIXJrY) on YouTube.*
+
 Let's have a quick look at the weekly chart first, which is still consolidating
 after the breakdown in November. It now looks increasingly likely that 98k was
 the top of the bounce, and a lower low is coming up next. This has been the base
