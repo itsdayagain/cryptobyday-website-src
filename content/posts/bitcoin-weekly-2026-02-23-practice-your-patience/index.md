@@ -41,6 +41,6 @@ Until then, practice your patience.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-02-23"
+    alt="BTC/USD weekly chart, 2026-02-23"
     caption="BTC/USD weekly chart, 23 February 2026. Weak bounce after the 60k low."
 >}}

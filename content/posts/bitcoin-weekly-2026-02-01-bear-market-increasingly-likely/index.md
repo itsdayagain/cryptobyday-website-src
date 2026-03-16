@@ -44,6 +44,6 @@ eventually turning back down for a lower low before the cycle bottom is in.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-02-01"
+    alt="BTC/USD weekly chart, 2026-02-01"
     caption="BTC/USD weekly chart, 2 February 2026. Testing support at $75k." 
 >}}

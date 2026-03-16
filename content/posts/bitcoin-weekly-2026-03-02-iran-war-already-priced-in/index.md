@@ -43,6 +43,6 @@ risks.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-03-02"
+    alt="BTC/USD weekly chart, 2026-03-02"
     caption="BTC/USD weekly chart, 2 March 2026. Weak bounce after the 60k low."
 >}}

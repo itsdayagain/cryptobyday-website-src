@@ -37,7 +37,7 @@ This is why you should always trade the charts, not the narrative.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-01-26"
+    alt="BTC/USD weekly chart, 2026-01-26"
     caption="BTC/USD weekly chart, 26 January 2026. Bounce is over?"
 >}}
 

@@ -33,7 +33,7 @@ down to the ultimate bottom.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-02-16"
+    alt="BTC/USD weekly chart, 2026-02-16"
     caption="BTC/USD weekly chart, 16 February 2026. Bouncing after the 60k low."
 >}}
 

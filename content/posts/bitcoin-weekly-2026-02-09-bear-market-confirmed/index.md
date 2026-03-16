@@ -52,6 +52,6 @@ rallies to eventually be sold off.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-02-09"
+    alt="BTC/USD weekly chart, 2026-02-09"
     caption="BTC/USD weekly chart, 9 February 2026. Bouncing after the 60k low."
 >}}

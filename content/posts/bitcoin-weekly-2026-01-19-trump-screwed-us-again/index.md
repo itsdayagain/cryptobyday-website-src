@@ -28,7 +28,7 @@ resistance at 100k and 109k. Long term support remains at 72-76k.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-01-19"
+    alt="BTC/USD weekly chart, 2026-01-19"
     caption="BTC/USD weekly chart, 19 January 2026. Bounce after breakdown."
 >}}
 

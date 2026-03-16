@@ -52,6 +52,6 @@ broken down yet, and I won't call a breakdown until it actually happens.
 
 {{< figure
     src="btcusd-weekly.png"
-    alt="BTC/USD daily chart, 2026-03-09"
+    alt="BTC/USD weekly chart, 2026-03-09"
     caption="BTC/USD weekly chart, 9 March 2026. Weak bounce after the 60k low."
 >}}
