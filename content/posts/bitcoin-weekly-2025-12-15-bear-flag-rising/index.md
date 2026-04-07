@@ -1,7 +1,7 @@
 +++
 date = '2025-12-15'
 draft = false
-title = 'Bitcoin weekly: Bear Flag Rising'
+title = 'Bitcoin Weekly: Bear Flag Rising'
 +++
 
 Overall the picture is the same as last week: stock markets remain strong, while
