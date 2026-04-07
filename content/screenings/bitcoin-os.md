@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "bitcoin-os-screening-post-2026-01",
-"created_at": "2025-12-19",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-19",
-"draft": false,
-"title": "BitcoinOS ($BOS)",
-"layout": "screening",
-"score": "good",
-"project_name": "BitcoinOS",
-}
----
++++
+date = "2025-12-19"
+draft = false
+title = "BitcoinOS ($BOS)"
+layout = "screening"
+score = "good"
+project_name = "BitcoinOS"
++++
 
 ZK-based system for verifying compute on Bitcoin, enabling rollups and trustless
 bridging.

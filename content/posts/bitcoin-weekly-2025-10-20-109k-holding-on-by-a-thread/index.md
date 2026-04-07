@@ -1,12 +1,15 @@
 +++
 date = '2025-10-20'
 draft = false
-title = 'Bitcoin weekly: $109k holding on by a thread'
-summary = '''After a bounce early in the week, bitcoin and altcoins alike struggled to
-regain their footing after the recent flash crash. In the end though, bitcoin
-put in a decent weekly close, keeping support at $109k intact, with the 
-price target of $142k still in play.'''
+title = 'Bitcoin Weekly: $109k Holding On by a Thread'
 +++
+
+After a bounce early in the week, bitcoin and altcoins alike struggled to regain
+their footing after the recent flash crash. In the end though, bitcoin put in a
+decent weekly close, keeping support at $109k intact, with the price target of
+$142k still in play.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/1-Bc701FtbQ) on YouTube.*
 

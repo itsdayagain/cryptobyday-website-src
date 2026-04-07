@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "moca-network-screening-post-2026-01",
-"created_at": "2025-12-12",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-12",
-"draft": false,
-"title": "Moca Network ($MOCA)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Moca Network",
-}
----
++++
+date = "2025-12-12"
+draft = false
+title = "Moca Network ($MOCA)"
+layout = "screening"
+score = "okay"
+project_name = "Moca Network"
++++
 
 Identity layer for the Internet, backed by Animoca Brands.
 

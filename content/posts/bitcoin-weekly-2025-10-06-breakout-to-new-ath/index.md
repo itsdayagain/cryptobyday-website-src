@@ -1,11 +1,14 @@
 +++
 date = '2025-10-06'
 draft = false
-title = 'Bitcoin weekly: Breakout to new ATH'
-summary = '''The past week, the doom-and-gloom of the week before turned into renewed hope as
-bitcoin rallied up to new all time highs. Bitcoin put in an all time high weekly
-close at $123.5k, continuing its move up towards the price target of $142k. LFG!'''
+title = 'Bitcoin Weekly: Breakout to New ATH'
 +++
+
+The past week, the doom-and-gloom of the week before turned into renewed hope as
+bitcoin rallied up to new all time highs. Bitcoin put in an all time high weekly
+close at $123.5k, continuing its move up towards the price target of $142k. LFG!
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/yDC_brtlMMc) on YouTube.*
 

@@ -2,10 +2,14 @@
 date = '2025-12-26'
 draft = false
 title = 'Altseason is dead'
-summary = '''Looking back at the past four years, from the top in late 2021 and up until today,
-it's painfully clear that the concept of the classic altseason has not been helpful. A
-new strategy is desperately needed.'''
 +++
+
+Looking back at the past four years, from the top in late 2021 and up until
+today, it's painfully clear that the concept of the classic altseason has not
+been helpful. A new strategy is desperately needed.
+
+<!--more-->
+
 ## TL;DR
 
 - Altcoins are not dead, but the concept of a broad altseason is

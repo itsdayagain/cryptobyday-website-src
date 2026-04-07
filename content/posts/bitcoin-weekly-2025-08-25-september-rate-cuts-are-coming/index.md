@@ -1,10 +1,13 @@
 +++
 date = '2025-08-25'
 draft = false
-title = 'Bitcoin weekly: September rate cuts are coming'
-summary = '''Bitcoin spent yet another week consolidating after the breakout in early July.
-The conservative price target of $142k remains.'''
+title = 'Bitcoin Weekly: September Rate Cuts Are Coming'
 +++
+
+Bitcoin spent yet another week consolidating after the breakout in early July.
+The conservative price target of $142k remains.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/MssFRam-8fI) on YouTube.*
 

@@ -1,10 +1,13 @@
 +++
 date = '2025-08-18'
 draft = false
-title = 'Bitcoin weekly: Altseason starting?'
-summary = '''Bitcoin spent another week consolidating after the breakout in early July. The
-conservative price target of $142k remains.'''
+title = 'Bitcoin Weekly: Altseason Starting?'
 +++
+
+Bitcoin spent another week consolidating after the breakout in early July. The
+conservative price target of $142k remains.
+
+<!--more-->
 
 Last week, the first half of the week was all smiles on good inflation data.
 Then on Thursday the latest US PPI numbers came in worse, and threw a bit of

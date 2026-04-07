@@ -1,9 +1,15 @@
 +++
 date = '2025-12-29'
 draft = false
-title = 'Bitcoin weekly: Silver is stealing the show'
-summary = '''Stocks inched up over Christmas, and silver is going parabolic. Meanwhile, bitcoin spent another week flat, showing little signs of life. If there is going to be a relief rally in crypto before another leg down, it's going to have to come soon.'''
+title = 'Bitcoin Weekly: Silver is Stealing the Show'
 +++
+
+Stocks inched up over Christmas, and silver is going parabolic. Meanwhile,
+bitcoin spent another week flat, showing little signs of life. If there is going
+to be a relief rally in crypto before another leg down, it's going to have to
+come soon.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/V99qGwsiut0) on YouTube.*
 

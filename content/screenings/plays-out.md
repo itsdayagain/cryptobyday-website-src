@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "plays-out-screening-post-2026-01",
-"created_at": "2025-12-08",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-08",
-"draft": false,
-"title": "PlaysOut ($PLAY)",
-"layout": "screening",
-"score": "okay",
-"project_name": "PlaysOut",
-}
----
++++
+date = "2025-12-08"
+draft = false
+title = "PlaysOut ($PLAY)"
+layout = "screening"
+score = "okay"
+project_name = "PlaysOut"
++++
 
 Platform for mini-game devs to publish their games, and app devs to add these
 games into their apps.

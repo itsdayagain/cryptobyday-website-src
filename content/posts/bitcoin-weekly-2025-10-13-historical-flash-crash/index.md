@@ -1,12 +1,15 @@
 +++
 date = '2025-10-13'
 draft = false
-title = 'Bitcoin weekly: Historical flash crash'
-summary = '''On Friday, bitcoin flash crashed all the way down to $100k, while altcoins got
+title = 'Bitcoin Weekly: Historical Flash Crash'
++++
+
+On Friday, bitcoin flash crashed all the way down to $100k, while altcoins got
 utterly annihilated. It was the biggest liquidation event ever in the entire
 history of crypto. But as dramatic as it was, in the end bitcoin recovered and
-closed the week at $115k, with the price target of $142k still intact.'''
-+++
+closed the week at $115k, with the price target of $142k still intact.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/oBuuz4WPjy8) on YouTube.*
 

@@ -1,9 +1,15 @@
 +++
 date = '2025-12-08'
 draft = false
-title = 'Bitcoin weekly: Santa rally?'
-summary = '''Stocks look set for a rally into the end of the year, spurred by a US rate cut on Wednesday. This could give room for the bounce in crypto to continue. However, given the recent breakdown, expect the bounce to eventually turn into a bull trap.'''
+title = 'Bitcoin Weekly: Santa Rally?'
 +++
+
+Stocks look set for a rally into the end of the year, spurred by a US rate cut
+on Wednesday. This could give room for the bounce in crypto to continue.
+However, given the recent breakdown, expect the bounce to eventually turn into a
+bull trap.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/RfQny1cHGIA) on YouTube.*
 

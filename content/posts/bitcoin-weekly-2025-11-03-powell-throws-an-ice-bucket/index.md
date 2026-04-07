@@ -1,12 +1,15 @@
 +++
 date = '2025-11-03'
 draft = false
-title = 'Bitcoin weekly: Powell throws an ice bucket'
-summary = '''After a good start to the week, Fed chairman Powell came out to throw
-a bucket of ice at the party, cooling market expectations of further rate cuts.
-Bitcoin ended the week down, but still closed slightly above support at $109k,
-keeping the price target of $142k in play for now.'''
+title = 'Bitcoin Weekly: Powell Throws an Ice Bucket'
 +++
+
+After a good start to the week, Fed chairman Powell came out to throw a bucket
+of ice at the party, cooling market expectations of further rate cuts.  Bitcoin
+ended the week down, but still closed slightly above support at $109k, keeping
+the price target of $142k in play for now.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/Nkpvxceik-8) on YouTube.*
 

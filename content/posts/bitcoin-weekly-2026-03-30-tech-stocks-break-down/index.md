@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-03-30",
-"created_at": "2026-03-30",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-03-30",
-"draft": false,
-"title": "Bitcoin Weekly: Tech Stocks Break Down",
-}
----
++++
+date = '2026-03-30'
+draft = false
+title = 'Bitcoin Weekly: Tech Stocks Break Down'
++++
 
 Last week several key stock indices broke down, including both the S&P 500 and
 the Nasdaq 100. This could mark the start of a bear market. How deep and how long

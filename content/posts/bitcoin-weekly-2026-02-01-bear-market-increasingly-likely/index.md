@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-02-01",
-"created_at": "2026-02-01",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-02-01",
-"draft": false,
-"title": "Bitcoin Weekly: A Bear Market Is Now Increasingly Likely",
-}
----
++++
+date = '2026-02-01'
+draft = false
+title = 'Bitcoin Weekly: A Bear Market Is Now Increasingly Likely'
++++
 
 Markets sold off across the board late last week, with silver recording its
 biggest ever daily drawdown in history on Friday, as it crashed from an open at

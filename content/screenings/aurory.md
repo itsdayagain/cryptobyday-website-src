@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "aurory-screening-blog-post-2026-01",
-"created_at": "2025-12-13",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-13",
-"draft": false,
-"title": "Aurory ($AURY)",
-"layout": "screening",
-"score": "good",
-"project_name": "Aurory",
-}
----
++++
+date = "2025-12-13"
+draft = false
+title = "Aurory ($AURY)"
+layout = "screening"
+score = "good"
+project_name = "Aurory"
++++
 
 Free-to-play web3 gaming studio building a collection of games in their Aurory
 world. Flagship game is Amiko Legends, a multiplayer creature-collection RPG, to

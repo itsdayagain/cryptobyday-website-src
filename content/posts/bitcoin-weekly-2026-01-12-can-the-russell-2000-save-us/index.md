@@ -1,9 +1,16 @@
 +++
 date = '2026-01-12'
 draft = false
-title = 'Bitcoin weekly: Can the Russell 2000 save us?'
-summary = '''Stock markets are strong all across the world. In the US, the smallcap Russell 2000 index might be breaking out on the monthly chart. The past three times this happened, it was very good for crypto. And bitcoin is indeed showing some strength on the daily chart. But in the bigger picture, there are no clear signs of a bottom being in just yet.'''
+title = 'Bitcoin Weekly: Can the Russell 2000 Save Us?'
 +++
+
+Stock markets are strong all across the world. In the US, the smallcap Russell
+2000 index might be breaking out on the monthly chart. The past three times this
+happened, it was very good for crypto. And bitcoin is indeed showing some
+strength on the daily chart. But in the bigger picture, there are no clear signs
+of a bottom being in just yet.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/QhQrlIppnyY) on YouTube.*
 

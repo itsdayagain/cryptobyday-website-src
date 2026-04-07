@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "overtake-screening-blog-post-2026-01",
-"created_at": "2025-12-08",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-08",
-"draft": false,
-"title": "Overtake ($TAKE)",
-"layout": "screening",
-"score": "good",
-"project_name": "Overtake",
-}
----
++++
+date = "2025-12-08"
+draft = false
+title = "Overtake ($TAKE)"
+layout = "screening"
+score = "good"
+project_name = "Overtake"
++++
 
 Peer-to-peer digital assets exchange on Sui. Focusing on web2 gaming assets.
 

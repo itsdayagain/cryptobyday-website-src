@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "datagram-screening-post-2026-01",
-"created_at": "2026-01-01",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-01-01",
-"draft": false,
-"title": "Datagram ($DGRAM)",
-"layout": "screening",
-"score": "fail",
-"project_name": "Datagram",
-}
----
++++
+date = "2026-01-01"
+draft = false
+title = "Datagram ($DGRAM)"
+layout = "screening"
+score = "fail"
+project_name = "Datagram"
++++
 
 Buzzword-bloated DePIN for compute, storage, bandwidth. 
 

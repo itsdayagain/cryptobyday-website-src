@@ -1,9 +1,15 @@
 +++
 date = '2026-01-05'
 draft = false
-title = 'Bitcoin weekly: The relief rally is on'
-summary = '''Sentiment across social media seemed to reach a low point right before New Year's eve. Since then the crypto market is rallying, and there is a decent chance the rally will continue. Big picture though, stay cautious, and expect any rally to eventually turn into a bear trap.'''
+title = 'Bitcoin Weekly: The Relief Rally is On'
 +++
+
+Sentiment across social media seemed to reach a low point right before New
+Year's eve. Since then the crypto market is rallying, and there is a decent
+chance the rally will continue. Big picture though, stay cautious, and expect
+any rally to eventually turn into a bear trap.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/1NbZ2XwT7MU) on YouTube.*
 

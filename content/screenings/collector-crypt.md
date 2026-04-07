@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "collector-crypt-screening-post-2026-01",
-"created_at": "2025-12-26",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-26",
-"draft": false,
-"title": "Collector Crypt ($CARDS)",
-"layout": "screening",
-"score": "good",
-"project_name": "Collector Crypt",
-}
----
++++
+date = "2025-12-26"
+draft = false
+title = "Collector Crypt ($CARDS)"
+layout = "screening"
+score = "good"
+project_name = "Collector Crypt"
++++
 
 Tokenized collectibles vault and marketplace.
 

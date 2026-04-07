@@ -1,9 +1,14 @@
 +++
 date = '2025-12-01'
 draft = false
-title = 'Bitcoin weekly: To bounce, or not to bounce?'
-summary = '''Stock markets rallied as dip buyers stepped in early. But will a renewed Santa rally in stocks be enough for bitcoin and the crypto market to perk up? Last week's bounce in crypto was not convincing, calling for caution to remain.'''
+title = 'Bitcoin Weekly: To Bounce, or Not to Bounce?'
 +++
+
+Stock markets rallied as dip buyers stepped in early. But will a renewed Santa
+rally in stocks be enough for bitcoin and the crypto market to perk up? Last
+week's bounce in crypto was not convincing, calling for caution to remain.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/TFhP4SDGYqk) on YouTube.*
 

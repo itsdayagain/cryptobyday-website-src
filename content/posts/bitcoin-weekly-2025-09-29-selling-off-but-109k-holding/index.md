@@ -1,12 +1,15 @@
 +++
 date = '2025-09-29'
 draft = false
-title = 'Bitcoin weekly: Selling off, but $109k holding'
-summary = '''Last week, crypto dumped across the board as traders got liquidated
-left and right. Bitcoin dipped all the way down to retest the breakout level at
-$109k again. Not a show of strength, but for now support at the weekly chart is
-holding, and the price target remains at $142k.'''
+title = 'Bitcoin Weekly: Selling Off, But $109k Holding'
 +++
+
+Last week, crypto dumped across the board as traders got liquidated left and
+right. Bitcoin dipped all the way down to retest the breakout level at $109k
+again. Not a show of strength, but for now support at the weekly chart is
+holding, and the price target remains at $142k.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/AQ6FTw2me6I) on YouTube.*
 

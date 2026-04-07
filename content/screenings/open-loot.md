@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "open-loot-screening-blog-post-2026-01",
-"created_at": "2025-12-10",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-10",
-"draft": false,
-"title": "Open Loot ($OL)",
-"layout": "screening",
-"score": "good",
-"project_name": "Open Loot",
-}
----
++++
+date = "2025-12-10"
+draft = false
+title = "Open Loot ($OL)"
+layout = "screening"
+score = "good"
+project_name = "Open Loot"
++++
 
 Web3 gaming infra by the Big Time team. Have their own appchain on Base.
 

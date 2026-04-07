@@ -1,9 +1,13 @@
 +++
 date = '2025-08-11'
 draft = false
-title = 'Bitcoin weekly: TACO'
-summary = '''Bitcoin bounced, then closed the week right below short term weekly resistance. Conservative price target of $142k remains.'''
+title = 'Bitcoin Weekly: TACO'
 +++
+
+Bitcoin bounced, then closed the week right below short term weekly resistance.
+Conservative price target of $142k remains.
+
+<!--more-->
 
 Last week, as markets were down across the board after the tariff and job number
 scares, we had this to say about BTC:

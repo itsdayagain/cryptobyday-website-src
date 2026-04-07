@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-02-09",
-"created_at": "2026-02-09",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-02-09",
-"draft": false,
-"title": "Bitcoin Weekly: Bear Market Confirmed",
-}
----
++++
+date = '2026-02-09'
+draft = false
+title = 'Bitcoin Weekly: Bear Market Confirmed'
++++
 
 Bitcoin continued selling off last week, slicing through support in the 70k
 area, until it finally found a bottom at 60k. There is now no question about it:

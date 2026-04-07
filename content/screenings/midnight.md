@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "midnight-screening-blog-post-2026-01",
-"created_at": "2025-12-11",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-11",
-"draft": false,
-"title": "Midnight ($NIGHT)",
-"layout": "screening",
-"score": "good",
-"project_name": "Midnight",
-}
----
++++
+date = "2025-12-11"
+draft = false
+title = "Midnight ($NIGHT)"
+layout = "screening"
+score = "good"
+project_name = "Midnight"
++++
 
 Privacy focused L1 with ZK tech. Hoskinson + Input Output spinoff.
 

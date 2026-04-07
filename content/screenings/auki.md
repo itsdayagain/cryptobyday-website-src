@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "auki-screening-post-2026-01",
-"created_at": "2026-01-25",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-01-25",
-"draft": false,
-"title": "Auki ($AUKI)",
-"layout": "screening",
-"score": "good",
-"project_name": "Auki",
-}
----
++++
+date = "2026-01-25"
+draft = false
+title = "Auki ($AUKI)"
+layout = "screening"
+score = "good"
+project_name = "Auki"
++++
 
 Auki is a decentralized network for machine perception and collaboration, with
 inspiring leadership and an active community.

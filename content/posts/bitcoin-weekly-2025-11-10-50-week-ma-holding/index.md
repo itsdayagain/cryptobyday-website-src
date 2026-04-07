@@ -1,13 +1,15 @@
 +++
 date = '2025-11-10'
 draft = false
-title = 'Bitcoin weekly: 50 week SMA holds'
-summary = '''While AI jitters saw stock markets continue down last week, this
-correction could still turn into a minor speed bump in an ongoing rally. In
-crypto, bitcoin is showing weakness losing support at $109k. However, it still
-remains above the 50 week SMA, with a price target of $142k, making it too early
-to call any tops.'''
+title = 'Bitcoin Weekly: 50 Week SMA Holds'
 +++
+
+While AI jitters saw stock markets continue down last week, this correction
+could still turn into a minor speed bump in an ongoing rally. In crypto, bitcoin
+is showing weakness losing support at $109k. However, it still remains above the
+50 week SMA, with a price target of $142k, making it too early to call any tops.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/dd3Eb2GKiLw) on YouTube.*
 

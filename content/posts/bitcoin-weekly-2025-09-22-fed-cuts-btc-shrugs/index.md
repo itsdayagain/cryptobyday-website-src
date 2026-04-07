@@ -1,12 +1,15 @@
 +++
 date = '2025-09-22'
 draft = false
-title = 'Bitcoin weekly: Fed cuts, BTC shrugs'
-summary = '''Bitcoin closed the week at $115.2k, ending the week completely flat after
-meeting resistance around $117k. The breakout from early July is still in play,
-with a price target of $142k. The drop in bitcoin dominance has leveled off,
-but there are no signs of the trend reversing yet: altseason is still in play.'''
+title = 'Bitcoin Weekly: Fed Cuts, BTC Shrugs'
 +++
+
+Bitcoin closed the week at $115.2k, ending the week completely flat after
+meeting resistance around $117k. The breakout from early July is still in play,
+with a price target of $142k. The drop in bitcoin dominance has leveled off, but
+there are no signs of the trend reversing yet: altseason is still in play.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/OJjRdnkHyts) on YouTube.*
 

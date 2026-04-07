@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-02-23",
-"created_at": "2026-02-23",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-02-23",
-"draft": false,
-"title": "Bitcoin Weekly: Practice Your Patience",
-}
----
++++
+date = '2026-02-23'
+draft = false
+title = 'Bitcoin Weekly: Practice Your Patience'
++++
 
 Another week of weak price action in bitcoin. So far the support around 70k has not
 offered any sign of a bounce at all. It still hasn't broken conclusively, but if

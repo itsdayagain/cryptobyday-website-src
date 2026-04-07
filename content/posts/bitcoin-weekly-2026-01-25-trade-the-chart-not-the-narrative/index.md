@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-01-26",
-"created_at": "2026-01-26",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-01-26",
-"draft": false,
-"title": "Bitcoin Weekly: Trade the Chart, Not the Narrative",
-}
----
++++
+date = '2026-01-26'
+draft = false
+title = 'Bitcoin Weekly: Trade the Chart, Not the Narrative'
++++
 
 While silver and gold are rallying, Bitcoin is clearly not living up to its
 promise as a risk-off inflation hedge. Last week I wrote about how similar the

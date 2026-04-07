@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "impossible-cloud-network-screening-post-2026-01",
-"created_at": "2025-12-27",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-27",
-"draft": false,
-"title": "Impossible Cloud Network ($ICNT)",
-"layout": "screening",
-"score": "good",
-"project_name": "Impossible Cloud Network",
-}
----
++++
+date = "2025-12-27"
+draft = false
+title = "Impossible Cloud Network ($ICNT)"
+layout = "screening"
+score = "good"
+project_name = "Impossible Cloud Network"
++++
 
 High performance storage and compute DePIN with good business focus.
 

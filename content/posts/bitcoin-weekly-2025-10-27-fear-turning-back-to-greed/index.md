@@ -1,12 +1,15 @@
 +++
 date = '2025-10-27'
 draft = false
-title = 'Bitcoin weekly: Fear turning back to greed'
-summary = '''This week fear swung back towards greed, as stock markets closed at new all
-time highs, and bitcoin ETF inflows turned positive again. This sets up a good
-base for a renewed bitcoin rally into the end of the year, with the price target
-of $142k still in play.'''
+title = 'Bitcoin Weekly: Fear Turning Back to Greed'
 +++
+
+This week fear swung back towards greed, as stock markets closed at new all time
+highs, and bitcoin ETF inflows turned positive again. This sets up a good base
+for a renewed bitcoin rally into the end of the year, with the price target of
+$142k still in play.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/GZJhL3K6Jog) on YouTube.*
 

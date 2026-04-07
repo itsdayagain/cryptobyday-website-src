@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "looby-screening-post-2026-03",
-"created_at": "2026-03-20",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-03-20",
-"draft": false,
-"title": "Looby ($LOOBY)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Looby",
-}
----
++++
+date = "2026-03-20"
+draft = false
+title = "Looby ($LOOBY)"
+layout = "screening"
+score = "okay"
+project_name = "Looby"
++++
 
 Looby is an art-focused memecoin created by ex-Rockstar Games senior artist Stephen
 Bliss. The art amazing, the best I've seen in any memecoin. If they can define

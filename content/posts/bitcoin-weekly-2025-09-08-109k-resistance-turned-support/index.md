@@ -1,11 +1,14 @@
 +++
 date = '2025-09-08'
 draft = false
-title = 'Bitcoin weekly: $109k resistance turned support'
-summary = '''Bitcoin closed the week at $111k on a small bounce from support at $109k. The
-breakout from early July is still in play, with the price target of $142k
-intact. Bitcoin dominance keeps trending down, meaning altseason is still on.'''
+title = 'Bitcoin Weekly: $109k Resistance Turned Support'
 +++
+
+Bitcoin closed the week at $111k on a small bounce from support at $109k. The
+breakout from early July is still in play, with the price target of $142k
+intact. Bitcoin dominance keeps trending down, meaning altseason is still on.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/yp8Vkejd8YM) on YouTube.*
 

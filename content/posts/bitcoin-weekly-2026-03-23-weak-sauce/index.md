@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-03-23",
-"created_at": "2026-03-23",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-03-23",
-"draft": false,
-"title": "Bitcoin Weekly: Weak Sauce",
-}
----
++++
+date = '2026-03-23'
+draft = false
+title = 'Bitcoin Weekly: Weak Sauce'
++++
 
 The strength that bitcoin showed last week failed to follow through. Meanwhile
 stock markets are even closer to an inflection point, with key indices breaking

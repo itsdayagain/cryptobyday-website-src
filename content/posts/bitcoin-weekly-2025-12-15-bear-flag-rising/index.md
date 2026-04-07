@@ -1,9 +1,15 @@
 +++
 date = '2025-12-15'
 draft = false
-title = 'Bitcoin weekly: Bear flag rising'
-summary = '''Overall the picture is the same as last week: stock markets remain strong, while bitcoin is trying to decide whether to bounce higher or not. Until there are clear signs of a reversal, beware of a bitcoin bull trap, eventually leading to a lower low.'''
+title = 'Bitcoin weekly: Bear Flag Rising'
 +++
+
+Overall the picture is the same as last week: stock markets remain strong, while
+bitcoin is trying to decide whether to bounce higher or not. Until there are
+clear signs of a reversal, beware of a bitcoin bull trap, eventually leading to
+a lower low.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/-yjsJb-rB0E) on YouTube.*
 

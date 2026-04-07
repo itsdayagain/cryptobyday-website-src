@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "sky-screening-post-2026-01",
-"created_at": "2025-12-23",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-23",
-"draft": false,
-"title": "Sky (MakerDAO) ($SKY)",
-"layout": "screening",
-"score": "good",
-"project_name": "Sky (MakerDAO)",
-}
----
++++
+date = "2025-12-23"
+draft = false
+title = "Sky (MakerDAO) ($SKY)"
+layout = "screening"
+score = "good"
+project_name = "Sky (MakerDAO)"
++++
 
 On-chain fully collateralized algorithmic yield-bearing USD stablecoin.
 

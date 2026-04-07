@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-03-09",
-"created_at": "2026-03-09",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-03-09",
-"draft": false,
-"title": "Bitcoin Weekly: Tech Stocks Are at an Inflection Point",
-}
----
++++
+date = '2026-03-09'
+draft = false
+title = 'Bitcoin Weekly: Tech Stocks Are at an Inflection Point'
++++
 
 Bitcoin started the week strong, but then failed to follow through, and fell
 back to close the week flat. Meanwhile, US stock indices are nearing an

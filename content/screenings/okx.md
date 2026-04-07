@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "okx-screening-blog-post-2026-01",
-"created_at": "2026-12-11",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-11",
-"draft": false,
-"title": "OKX ($OKB)",
-"layout": "screening",
-"score": "good",
-"project_name": "OKX",
-}
----
++++
+date = "2025-12-11"
+draft = false
+title = "OKX ($OKB)"
+layout = "screening"
+score = "good"
+project_name = "OKX"
++++
 
 Utility token for the OKX centralized crypto exchange, and native token for
 their "X Layer" EVM-based L2 blockchain.

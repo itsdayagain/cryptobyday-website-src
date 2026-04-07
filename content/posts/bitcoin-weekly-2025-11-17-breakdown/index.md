@@ -1,12 +1,15 @@
 +++
 date = '2025-11-17'
 draft = false
-title = 'Bitcoin weekly: Breakdown'
-summary = '''A bad week for stocks, and even worse for crypto. Bitcoin broke
-down, and closed the week at $94.2k. The July breakout has now failed, and the
-price target of $142k is no longer in play. Last week's call for patience now
-turns into a call for extreme caution.'''
+title = 'Bitcoin Weekly: Breakdown'
 +++
+
+A bad week for stocks, and even worse for crypto. Bitcoin broke down, and closed
+the week at $94.2k. The July breakout has now failed, and the price target of
+$142k is no longer in play. Last week's call for patience now turns into a call
+for extreme caution.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/9VUyPGClGic) on YouTube.*
 

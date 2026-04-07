@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "layer-zero-screening-post-2026-01",
-"created_at": "2025-12-21",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-21",
-"draft": false,
-"title": "LayerZero ($ZRO)",
-"layout": "screening",
-"score": "good",
-"project_name": "LayerZero",
-}
----
++++
+date = "2025-12-21"
+draft = false
+title = "LayerZero ($ZRO)"
+layout = "screening"
+score = "good"
+project_name = "LayerZero"
++++
 
 Decentralized infra for cross-chain communication.
 

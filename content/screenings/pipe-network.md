@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "pipe-network-screening-blog-post-2026-01",
-"created_at": "2025-12-07",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-07",
-"draft": false,
-"title": "Pipe Network ($PIPE)",
-"layout": "screening",
-"score": "good",
-"project_name": "Pipe Network",
-}
----
++++
+date = "2025-12-07"
+draft = false
+title = "Pipe Network ($PIPE)"
+layout = "screening"
+score = "good"
+project_name = "Pipe Network"
++++
 
 Pipe Network is a decentralized CDN built by good engineers, running on Solana.
 They have a real product with a real use case, and the tokenomics make sense.

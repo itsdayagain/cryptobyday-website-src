@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "note-v1",
-"id": "how-to-screen-a-crypto-project-blog-post-2026-01",
-"created_at": "2026-01-08",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-01-18",
-"draft": false,
-"title": "How To Screen A Crypto Project",
-}
----
++++
+date = '2026-01-18'
+draft = false
+title = 'How To Screen A Crypto Project'
++++
 
 How I quickly find the true crypto gems among the heaps of garbage.
 

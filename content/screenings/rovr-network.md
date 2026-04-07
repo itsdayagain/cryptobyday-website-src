@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "rovr-screening-blog-post-2026-01",
-"created_at": "2025-12-17",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-17",
-"draft": false,
-"title": "ROVR Network ($ROVR)",
-"layout": "screening",
-"score": "good",
-"project_name": "ROVR Network",
-}
----
++++
+date = "2025-12-17"
+draft = false
+title = "ROVR Network ($ROVR)"
+layout = "screening"
+score = "good"
+project_name = "ROVR Network"
++++
 
 Decentralized physical network for hi-def 3D mapping, to use with for example
 spatial AI.

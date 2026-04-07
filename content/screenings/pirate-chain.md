@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "pirate-chain-screening-post-2026-01",
-"created_at": "2026-01-07",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-01-07",
-"draft": false,
-"title": "Pirate Chain ($ARRR)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Pirate Chain",
-}
----
++++
+date = "2026-01-07"
+draft = false
+title = "Pirate Chain ($ARRR)"
+layout = "screening"
+score = "okay"
+project_name = "Pirate Chain"
++++
 
 Pirate Chain is a fork of Zcash. But unlike Zcash, it forces all transactions to
 be shielded. It also writes snapshot checkpoints to Litecoin, effectively making

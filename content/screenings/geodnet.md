@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "geodnet-screening-blog-post-2026-01",
-"created_at": "2025-12-16",
-"tags": ["crypto/screening"],
-"lang": "en",
-
-"date": "2025-12-16",
-"draft": false,
-"title": "GEODNET ($GEOD)",
-"layout": "screening",
-"score": "good",
-"project_name": "GEODNET",
-}
----
++++
+date = "2025-12-16"
+draft = false
+title = "GEODNET ($GEOD)"
+layout = "screening"
+score = "good"
+project_name = "GEODNET"
++++
 
 Decentralized physical network of sensors that provide correction data for
 centimeter-precision GPS.

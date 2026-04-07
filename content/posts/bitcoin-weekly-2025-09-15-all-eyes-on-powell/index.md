@@ -1,11 +1,14 @@
 +++
 date = '2025-09-15'
 draft = false
-title = 'Bitcoin weekly: All eyes on Powell'
-summary = '''Bitcoin closed the week at $115.3k, continuing last week’s bounce from support
-at $109k. The breakout from early July is still in play, with a price target of
-$142k. Bitcoin dominance keeps trending down: altseason is still on!'''
+title = 'Bitcoin Weekly: All Eyes on Powell'
 +++
+
+Bitcoin closed the week at $115.3k, continuing last week’s bounce from support
+at $109k. The breakout from early July is still in play, with a price target of
+$142k. Bitcoin dominance keeps trending down: altseason is still on!
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/V0cF1jbpSFY) on YouTube.*
 

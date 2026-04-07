@@ -1,9 +1,12 @@
 +++
 date = '2025-07-28'
 draft = false
-title = 'Bitcoin weekly: Consolidating post $109k breakout'
-summary = 'Bitcoin consolidated for one more week'
+title = 'Bitcoin weekly: Consolidating Post $109k Breakout'
 +++
+
+Bitcoin consolidated for one more week.
+
+<!--more-->
 
 In tradfi, stock markets across the world had a good week and overall everything
 looks great. In the US, both the S&P500 and the more tech-heavy Nasdaq 100

@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "2026-02-04-auki-blog-post",
-"created_at": "2026-02-04",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-02-04",
-"draft": false,
-"title": "The Bull Case for $AUKI",
-}
----
++++
+date = '2026-02-04'
+draft = false
+title = 'The Bull Case for $AUKI'
++++
 
 Auki is sitting right at the intersection of crypto, AI and robotics. Their
 potential is huge, but almost nobody is paying attention yet.

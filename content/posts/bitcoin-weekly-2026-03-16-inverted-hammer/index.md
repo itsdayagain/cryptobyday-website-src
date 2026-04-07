@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-03-16",
-"created_at": "2026-03-16",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-03-16",
-"draft": false,
-"title": "Bitcoin Weekly: Inverted Hammer Let's Go",
-}
----
++++
+date = '2026-03-16'
+draft = false
+title = "Bitcoin Weekly: Inverted Hammer Let's Go"
++++
 
 While US stock markets are struggling, coming down to test their 200 day moving
 averages, bitcoin actually showed strength last week, closing the week above 70k

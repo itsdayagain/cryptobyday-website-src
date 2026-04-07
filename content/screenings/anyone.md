@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "anyone-screening-post-2026-01",
-"created_at": "2026-01-04",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-01-04",
-"draft": false,
-"title": "Anyone Protocol ($ANYONE)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Anyone Protocol",
-}
----
++++
+date = "2026-01-04"
+draft = false
+title = "Anyone Protocol ($ANYONE)"
+layout = "screening"
+score = "okay"
+project_name = "Anyone Protocol"
++++
 
 Decentralized onion-routed VPN.
 

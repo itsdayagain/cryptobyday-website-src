@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-03-02",
-"created_at": "2026-03-02",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-03-02",
-"draft": false,
-"title": "Bitcoin Weekly: Iran War Already Priced In?",
-}
----
++++
+date = '2026-03-02'
+draft = false
+title = 'Bitcoin Weekly: Iran War Already Priced In?'
++++
 
 Our favorite President of Peace has started a war in the Middle East. As news of
 the attack broke on Saturday, bitcoin sold off. But not that much, and by Sunday

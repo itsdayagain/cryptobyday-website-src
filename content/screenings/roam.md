@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "roam-screening-post-2026-01",
-"created_at": "2025-12-18",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-18",
-"draft": false,
-"title": "Roam ($ROAM)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Roam",
-}
----
++++
+date = "2025-12-18"
+draft = false
+title = "Roam ($ROAM)"
+layout = "screening"
+score = "okay"
+project_name = "Roam"
++++
 
 Decentralized wireless network.
 

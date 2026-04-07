@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "rollbit-screening-post-2026-01",
-"created_at": "2025-12-18",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-18",
-"draft": false,
-"title": "Rollbit ($RLB)",
-"layout": "screening",
-"score": "good",
-"project_name": "Rollbit",
-}
----
++++
+date = "2025-12-18"
+draft = false
+title = "Rollbit ($RLB)"
+layout = "screening"
+score = "good"
+project_name = "Rollbit"
++++
 
 Crypto casino and futures trading, doing large token buyback + burns.
 

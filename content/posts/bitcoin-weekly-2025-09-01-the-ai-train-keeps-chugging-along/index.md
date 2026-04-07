@@ -1,9 +1,14 @@
 +++
 date = '2025-09-01'
 draft = false
-title = 'Bitcoin weekly: The AI train keeps chugging along'
-summary = '''Bitcoin pulled back and closed the week right at the breakout level from back in July. This is the obvious place to buy the dip. The conservative price target of $142k remains.'''
+title = 'Bitcoin Weekly: The AI Train Keeps Chugging Along'
 +++
+
+Bitcoin pulled back and closed the week right at the breakout level from back in
+July. This is the obvious place to buy the dip. The conservative price target of
+$142k remains.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/HJmp1b1sjes) on YouTube.*
 

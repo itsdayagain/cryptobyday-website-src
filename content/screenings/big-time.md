@@ -1,19 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "big-time-screening-blog-post-2026-01",
-"created_at": "2025-12-10",
-"tags": ["crypto/screening"],
-
-"lang": "en",
-"date": "2025-12-10",
-"draft": false,
-"title": "Big Time ($BIGTIME)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Big Time",
-}
----
++++
+date = "2025-12-10"
+draft = false
+title = "Big Time ($BIGTIME)"
+layout = "screening"
+score = "okay"
+project_name = "Big Time"
++++
 
 Free-to-play multiplayer RPG with decent team. Integrated with Open Loot.
 

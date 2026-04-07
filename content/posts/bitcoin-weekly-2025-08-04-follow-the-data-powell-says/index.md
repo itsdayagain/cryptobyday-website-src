@@ -1,10 +1,13 @@
 +++
 date = '2025-08-04'
 draft = false
-title = 'Bitcoin weekly: Follow the data, Powell says'
-summary = '''Bitcoin pulled back, but closed the week well above its recent breakout level.
-Conservative price target still at $142k.'''
+title = 'Bitcoin Weekly: Follow the Data, Powell Says'
 +++
+
+Bitcoin pulled back, but closed the week well above its recent breakout level.
+Conservative price target still at $142k.
+
+<!--more-->
 
 In tradfi, last week stock markets had a good start of the week. Then came
 Wednesday, and the US Fed announced that there would be no July rate cut. This

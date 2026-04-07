@@ -1,9 +1,14 @@
 +++
 date = '2025-12-22'
 draft = false
-title = 'Bitcoin weekly: Bulls, beware of traps'
-summary = '''With stock markets strong, there is still room for bitcoin to bounce. Nothing has changed in the chart though, and the message remains the same: watch out for any rally to turn into a bull trap.'''
+title = 'Bitcoin Weekly: Bulls, Beware of Traps'
 +++
+
+With stock markets strong, there is still room for bitcoin to bounce. Nothing
+has changed in the chart though, and the message remains the same: watch out for
+any rally to turn into a bull trap.
+
+<!--more-->
 
 *Also watch the [accompanying chart analysis](https://youtu.be/AMVXU-RfLgQ) on YouTube.*
 

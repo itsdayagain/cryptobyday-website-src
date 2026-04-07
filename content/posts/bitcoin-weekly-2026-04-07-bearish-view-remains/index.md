@@ -1,8 +1,8 @@
----
-date: "2026-04-07"
-draft: false
-title: "Bitcoin Weekly: Bearish View Remains"
----
++++
+date = '2026-04-07'
+draft = false
+title = 'Bitcoin Weekly: Bearish View Remains'
++++
 
 In crypto, bitcoin is still struggling below 70k. In the US stock market, the
 S&P 500 and Nasdaq 100 bounced back last week. However, the breakdown in these

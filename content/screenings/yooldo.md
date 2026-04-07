@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "yooldo-screening-post-2026-01",
-"created_at": "2025-12-09",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2025-12-09",
-"draft": false,
-"title": "Yooldo ($ESPORTS)",
-"layout": "screening",
-"score": "okay",
-"project_name": "Yooldo",
-}
----
++++
+date = "2025-12-09"
+draft = false
+title = "Yooldo ($ESPORTS)"
+layout = "screening"
+score = "okay"
+project_name = "Yooldo"
++++
 
 Web3 gaming studio based in South Korea.
 

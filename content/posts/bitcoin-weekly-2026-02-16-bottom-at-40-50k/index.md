@@ -1,15 +1,8 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "btc-market-update-post-2026-02-16",
-"created_at": "2026-02-16",
-"tags": ["output/blog-post"],
-"lang": "en",
-"date": "2026-02-16",
-"draft": false,
-"title": "Bitcoin Weekly: Rally Then 40k Bottom?",
-}
----
++++
+date = '2026-02-16'
+draft = false
+title = 'Bitcoin Weekly: Rally Then 40k Bottom?'
++++
 
 While a few oversold altcoins rallied off their lows, nothing much happened in
 bitcoin since last Monday. A counter trend rally is still in the cards here, but

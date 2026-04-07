@@ -1,18 +1,11 @@
----
-{
-"nexus_schema": "hugo-blog-post-v1",
-"id": "peaq-screening-post-2026-01",
-"created_at": "2026-01-03",
-"tags": ["crypto/screening"],
-"lang": "en",
-"date": "2026-01-03",
-"draft": false,
-"title": "Peaq ($PEAQ)",
-"layout": "screening",
-"score": "good",
-"project_name": "Peaq",
-}
----
++++
+date = "2026-01-03"
+draft = false
+title = "Peaq ($PEAQ)"
+layout = "screening"
+score = "good"
+project_name = "Peaq"
++++
 
 Polkadot-based layer-1 for DePINs.
 
